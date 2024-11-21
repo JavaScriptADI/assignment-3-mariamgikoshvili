@@ -1,10 +1,5 @@
 // write your code in this directory
 
-// [Challenge] "Mystery Room", Write a code that will generate 2d representation of a room. you should generate an empty space, wall or a mystery box. You can use any characters you want. The room should be 10x10. The room should have 10 walls, 1 mystery boxes and the rest should be empty space, mystey box location should be random!. The room should look something like this:
-
-const width¬
-
-for(let row=0;row<)
 
 // davaleba 1
 
